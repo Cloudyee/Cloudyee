@@ -1,6 +1,6 @@
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi😄%20I'm%20정경연%20&fontAlign=40&fontAlignY=40&color=gradient)
 
-### 👋 안녕하세요, ✨Full-Stack Programmer로 성장하고 있는 개발자 정경연✨ 입니다.
+### 👋 안녕하세요, ✨Full-Stack Programmer로 성장하고 있는 정경연✨ 입니다.
 - 👀 협업과 융합을 통한 혁신을 이루기 위해 노력합니다.
 <br>
 
@@ -28,6 +28,6 @@
 
 <br>
   
-### 🚌 Top Langs & Algorithm
+### 🚌 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact)
 
