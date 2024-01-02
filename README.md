@@ -4,7 +4,7 @@
   
 ### 👋 안녕하세요, ✨Full-Stack Programmer로 성장하고 있는 정경연✨ 입니다.
  👀 협업과 융합을 통한 혁신을 이루기 위해 노력합니다.
-<br>
+<br><br><br>
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
@@ -17,7 +17,7 @@
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
-<br>
+<br><br><br>
 
 **🛠️ Infra and Tools**
 <br>
@@ -28,7 +28,7 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
 
-<br>
+<br><br>
   
 ### 🚌 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact)
