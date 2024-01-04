@@ -1,6 +1,6 @@
 <div align="center">
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi😄%20I'm%20정경연%20&fontAlign=40&fontAlignY=40&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi😄%20This%20is%20정경연%20&fontAlign=40&fontAlignY=40&color=gradient)
   
 ###  안녕하세요, ✨Full-Stack Programmer로 성장하고 있는 정경연✨ 입니다.
 <br>
