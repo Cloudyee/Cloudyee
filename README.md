@@ -2,8 +2,10 @@
 
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi😄%20I'm%20정경연%20&fontAlign=40&fontAlignY=40&color=gradient)
   
-### 👋 안녕하세요, ✨Full-Stack Programmer로 성장하고 있는 정경연✨ 입니다.
- 👀 협업과 융합을 통한 혁신을 이루기 위해 노력합니다.
+###  안녕하세요, ✨Full-Stack Programmer로 성장하고 있는 정경연✨ 입니다.
+<br>
+ 👀 협업과 융합을 통한 혁신을 이루기 위해 노력합니다. <br>
+ 😄 동료들과 함께 성장하기 위해 꾸준히 노력합니다.
 <br><br><br>
 
 ### 🦾 Skills
@@ -21,6 +23,7 @@
 
 **🛠️ Infra and Tools**
 <br>
+
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -34,4 +37,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact)
 
 <br>
+<br>
+
+![Cloudyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloudyee&show_icons=true&theme=radical)
 </div>
