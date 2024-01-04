@@ -8,7 +8,7 @@
  😄 동료들과 함께 성장하기 위해 꾸준히 노력합니다.
 <br><br><br>
 
-### 🦾 Skills
+# 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 <br>
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
@@ -33,12 +33,10 @@
 
 <br><br>
   
-### 🚌 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact)
-
-<br>
-<br>
-
+# 📑 Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact&theme=radical&heigth)
 ![Cloudyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloudyee&show_icons=true&theme=radical)
+<br>
+
 </div>
 <br><br>
