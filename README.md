@@ -2,7 +2,7 @@
 
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi😄%20This%20is%20정경연%20&fontAlign=40&fontAlignY=40&color=gradient)
   
-###  안녕하세요, ✨Full-Stack Programmer로 성장하고 있는 정경연✨ 입니다.
+###  안녕하세요, ✨성장하는 개발자 정경연✨ 입니다.
 <br>
  👀 협업과 융합으로 혁신을 이루기 위해 노력합니다. <br>
  😄 동료들과 함께 성장함을 추구합니다.
