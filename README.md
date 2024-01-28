@@ -8,7 +8,7 @@
 <br>
 
 <h2>✨Introduce myself✨</h2>
- 정경연(Jung geong yeon <br><br>
+ 정경연(Jung geong yeon) <br><br>
 
  👀 협업과 융합으로 혁신을 이루기 위해 노력합니다. <br>
  😄 동료들과 함께하는 성장을 추구합니다.
