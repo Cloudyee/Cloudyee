@@ -1,14 +1,17 @@
 <div align="center">
-
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi😄%20This%20is%20정경연%20&fontAlign=40&fontAlignY=40&color=gradient)
   
-###  안녕하세요, ✨성장하는 개발자 정경연✨ 입니다.
+![Waving](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi😄%20This%20is%20정경연%20&fontAlign=50&fontAlignY=50&color=gradient&rotate=-3&fontSize=80&animation=twinkling&stroke=8CC2E5&strokeWidth=2)
+</div>
+
+
 <br>
  👀 협업과 융합으로 혁신을 이루기 위해 노력합니다. <br>
- 😄 동료들과 함께 성장함을 추구합니다.
-<br><br><br>
+ 😄 동료들과 함께하는 성장을 추구합니다.
+<br><br>
+<hr>
+<br>
 
-# 🦾 Skills
+# Skills
 **🧑‍💻 Lang and Frameworks**
 <br>
 
@@ -34,7 +37,7 @@
 
 <br><br>
   
-# 📑 Stats
+# Stats
 I will continue to grow. Stay tuned! <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact&theme=radical&heigth)
