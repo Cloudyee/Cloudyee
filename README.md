@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCloudyee%2Fhit-counter&count_bg=%23808080&title_bg=%231D1D1D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 <div align="center">
   
 ![Waving](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi😄%20This%20is%20정경연%20&fontAlign=50&fontAlignY=50&color=gradient&rotate=-5&fontSize=80&animation=twinkling&stroke=162807&strokeWidth=2)
@@ -10,7 +11,7 @@
 <br><br>
 <hr>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCloudyee%2Fhit-counter&count_bg=%23808080&title_bg=%231D1D1D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)<br>
+<br>
 
 ## Skills
 **🧑‍💻 Lang and Frameworks**
