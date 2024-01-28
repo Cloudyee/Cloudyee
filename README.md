@@ -1,6 +1,6 @@
 <div align="center">
   
-![Waving](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi😄%20This%20is%20정경연%20&fontAlign=50&fontAlignY=50&color=gradient&rotate=-5&fontSize=80&animation=twinkling&stroke=8CC2E5&strokeWidth=2)
+![Waving](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi😄%20This%20is%20정경연%20&fontAlign=50&fontAlignY=50&color=gradient&rotate=-5&fontSize=80&animation=twinkling&stroke=162807&strokeWidth=2)
 </div>
 
 
@@ -40,8 +40,8 @@
 ## Stats
 I will continue to grow. Stay tuned! <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact&theme=solarized-light&hide=css&bg_color=00000000)
-![Cloudyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloudyee&show_icons=true&theme=solarized-light&hide=stars&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact&theme=graywhite&hide=css)
+![Cloudyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloudyee&show_icons=true&theme=graywhite&hide=stars)
 <br>
 
 </div>
