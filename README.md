@@ -11,7 +11,7 @@
 <hr>
 <br>
 
-# Skills
+## Skills
 **🧑‍💻 Lang and Frameworks**
 <br>
 
@@ -37,7 +37,7 @@
 
 <br><br>
   
-# Stats
+## Stats
 I will continue to grow. Stay tuned! <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact&theme=radical&heigth)
