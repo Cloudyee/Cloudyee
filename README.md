@@ -40,8 +40,8 @@
 ## Stats
 I will continue to grow. Stay tuned! <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact&theme=radical&heigth)
-![Cloudyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloudyee&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact&theme=solarized-light&hide=css&bg_color=00000000)
+![Cloudyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloudyee&show_icons=true&theme=solarized-light&hide=stars&bg_color=00000000)
 <br>
 
 </div>
