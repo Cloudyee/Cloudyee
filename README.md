@@ -1,6 +1,6 @@
 <div align="center">
   
-![Waving](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi😄%20This%20is%20정경연%20&fontAlign=50&fontAlignY=50&color=gradient&rotate=-3&fontSize=80&animation=twinkling&stroke=8CC2E5&strokeWidth=2)
+![Waving](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi😄%20This%20is%20정경연%20&fontAlign=50&fontAlignY=50&color=gradient&rotate=-5&fontSize=80&animation=twinkling&stroke=8CC2E5&strokeWidth=2)
 </div>
 
 
