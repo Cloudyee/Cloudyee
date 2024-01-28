@@ -6,6 +6,10 @@
 
 
 <br>
+
+<h2>✨Introduce myself✨</h2>
+ 정경연(Jung geong yeon <br><br>
+
  👀 협업과 융합으로 혁신을 이루기 위해 노력합니다. <br>
  😄 동료들과 함께하는 성장을 추구합니다.
 <br><br>
@@ -40,11 +44,11 @@
 <br><br>
   
 ## Stats
-I will continue to grow. Stay tuned! <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact&theme=graywhite&hide=css)
 ![Cloudyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloudyee&show_icons=true&theme=graywhite&hide=stars)
 <br>
+I will continue to grow. Stay tuned! <br>
 
 </div>
 <br><br>
