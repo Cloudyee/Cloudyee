@@ -9,7 +9,8 @@
  😄 동료들과 함께하는 성장을 추구합니다.
 <br><br>
 <hr>
-<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCloudyee%2Fhit-counter&count_bg=%23808080&title_bg=%231D1D1D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)<br>
 
 ## Skills
 **🧑‍💻 Lang and Frameworks**
