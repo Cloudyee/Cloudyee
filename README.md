@@ -44,7 +44,7 @@
 <br><br>
   
 ## Stats
-🗒️계속해서 성장중🖋️
+💻계속해서 성장중 ...ing👩‍💻
 
 ![Cloudyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloudyee&show_icons=true&theme=graywhite&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact&theme=graywhite&hide=css)  
