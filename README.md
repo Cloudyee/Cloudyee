@@ -44,11 +44,13 @@
 <br><br>
   
 ## Stats
+🗒️계속해서 성장중🖋️
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact&theme=graywhite&hide=css)
 ![Cloudyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloudyee&show_icons=true&theme=graywhite&hide=stars)
-<br>
-I will continue to grow. Stay tuned! <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact&theme=graywhite&hide=css)  
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bshey1)
+<br><br>
 
 </div>
-<br><br>
+<br><br><br>
