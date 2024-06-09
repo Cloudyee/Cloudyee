@@ -40,16 +40,17 @@
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
-
-<br><br>
+<br>
   
 ## Stats
-💻계속해서 성장중 ...ing👩‍💻
+
 <div align="center">
+💻일취월장 성장중 ...ing👩‍💻
+
+<br><br>
 
 ![Cloudyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloudyee&show_icons=true&theme=graywhite&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact&theme=graywhite&hide=css,html)  
-
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bshey1)
 <br>
 
