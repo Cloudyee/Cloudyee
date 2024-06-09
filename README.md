@@ -45,12 +45,20 @@
   
 ## Stats
 💻계속해서 성장중 ...ing👩‍💻
+<div align="center">
 
 ![Cloudyee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloudyee&show_icons=true&theme=graywhite&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact&theme=graywhite&hide=css,html)  
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bshey1)
-<br><br>
+<br>
+
+😻
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Cloudyee"/>
+</a>
+
 
 </div>
 <br><br><br>
