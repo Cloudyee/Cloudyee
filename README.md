@@ -24,9 +24,9 @@
 - Opic English(IH)
 
 🏆Open Data Forum Hackathon 2nd Prize
-<br><br><br>
+<br><br>
 
-
+<!--
 ### 🖥️ Skills
 
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
@@ -43,7 +43,7 @@
 ![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
-
+-->
 <br>
   
 ### 📶Stats
@@ -62,9 +62,9 @@
   
 <br><br>
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Cloudyee&show_icons=true&theme=black-ice&hide=stars"
+  src="https://github-readme-stats.vercel.app/api?username=Cloudyee&show_icons=true&theme=dark&hide=stars"
   width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact&theme=graywhite&hide=css,html" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact&theme=dark&hide=css,html" />
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bshey1)](https://solved.ac/bshey1/)
 
