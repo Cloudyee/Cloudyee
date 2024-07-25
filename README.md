@@ -53,12 +53,13 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/Cloudyee"
-  width="400"
-  height="200"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/Cloudyee?pet-id=588596224006024910"
+    width="600"
+    height="120"
+  />
 </a>
+  
 <br><br>
 <img
   src="https://github-readme-stats.vercel.app/api?username=Cloudyee&show_icons=true&theme=black-ice&hide=stars"
