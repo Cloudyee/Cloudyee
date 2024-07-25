@@ -15,7 +15,7 @@
 - Woori Fis Academy 1st Course Certificated
 
 🏢**Now working at**
-- Secucen, web developer in the Financial DX Team
+- web developer in Secucen, the Financial DX Team
 
 📃**Certificate**
 - Engineer Information Processing
