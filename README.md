@@ -11,7 +11,7 @@
 <br><br>
 
 ## 💠Introduce myself
-- Hongik Univ. Visual Communication Design & Prgint Making
+- Hongik Univ. Visual Communication Design & Print Making
 - Woori Fis Academy 1st Course Certificated
 
 🏢**Now working at**
