@@ -12,7 +12,7 @@
 
 ## 💠Introduce myself
 - Hongik Univ. Visual Communication Design & Print Making
-- Woori Fis Academy 1st Course Certificated
+- Woori Fis Academy Cloud Web Service Development 1st Course Certificated
 
 🏢**Now working at**
 - web developer in the Financial DX Team, Secucen
