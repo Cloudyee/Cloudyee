@@ -20,6 +20,7 @@
 📃**Certificate**
 - Engineer Information Processing
 - SQLD
+- ADsP
 - YBM Coding Specialist Professional Java level 2
 - Opic English(IH)
 
