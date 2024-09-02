@@ -11,7 +11,8 @@
 <br><br>
 
 ## 💠Introduce myself
-- Hongik Univ. Visual Communication Design & Print Making
+<!--
+- Hongik Univ. Visual Communication Design & Print Making-->
 - Woori Fis Academy Cloud Web Service Development 1st Course Certificated
 
 🏢**Now working at**
