@@ -21,7 +21,7 @@
 - web developer in the Financial DX Team, Secucen
 
 📃**Certificate**
-- Engineer Information Processing
+- 정보처리기사 : Engineer Information Processing
 - SQLD
 - ADsP
 - YBM Coding Specialist Professional Java level 2
