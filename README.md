@@ -7,7 +7,7 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=600&size=30&pause=1000&color=87C8F7&center=true&random=true&width=435&lines=%F0%9F%A9%B5Hi+This+is+Jung+GeongYeon%F0%9F%A9%B5)](https://git.io/typing-svg)-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=600&size=30&pause=1000&color=87C8F7&center=true&random=true&width=435&lines=%F0%9F%A9%B5Hi+nice+to+meet+you%F0%9F%A9%B5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=600&size=28&pause=1000&color=87C8F7&center=true&random=true&width=435&lines=%F0%9F%A9%B5Hi+nice+to+meet+you%F0%9F%A9%B5)](https://git.io/typing-svg)
 </div>
 
 <br><br>
