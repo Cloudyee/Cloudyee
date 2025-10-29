@@ -16,8 +16,8 @@
 - Woori Fis Academy Cloud Web Service Development 1st Course Certificated
 
 🏢**working at**
-- National Agricultural Cooperative Federation
-- (woked at) web developer in the Financial DX Team, Secucen
+- :four_leaf_clover:`농협중앙회` National Agricultural Cooperative Federation (2024.12~)
+- web developer in the Financial DX Team, Secucen
 
 📃**Certificate**
 - 정보처리기사 : Engineer Information Processing
