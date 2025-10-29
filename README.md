@@ -15,10 +15,6 @@
 - Hongik Univ. Visual Communication Design & Print Making
 - Woori Fis Academy Cloud Web Service Development 1st Course Certificated
 
-🏢**working at**
-- :four_leaf_clover:`농협중앙회` National Agricultural Cooperative Federation (2024.12~)
-- web developer in the Financial DX Team, Secucen
-
 📃**Certificate**
 - 정보처리기사 : Engineer Information Processing
 - SQLD
