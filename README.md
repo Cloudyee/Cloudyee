@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCloudyee%2Fhit-counter&count_bg=%23808080&title_bg=%231D1D1D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
 <div align="center">
 <br>
   
@@ -17,8 +15,9 @@
 - Hongik Univ. Visual Communication Design & Print Making
 - Woori Fis Academy Cloud Web Service Development 1st Course Certificated
 
-🏢**Now working at**
-- web developer in the Financial DX Team, Secucen
+🏢**working at**
+- National Agricultural Cooperative Federation
+- (woked at) web developer in the Financial DX Team, Secucen
 
 📃**Certificate**
 - 정보처리기사 : Engineer Information Processing
