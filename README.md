@@ -58,12 +58,7 @@
     height="120"
   />
 </a>
-  
-<br><br>
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Cloudyee&show_icons=true&theme=dark&hide=stars"
-  width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudyee&layout=compact&theme=dark&hide=css,html" />
+ 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bshey1)](https://solved.ac/bshey1/)
 
